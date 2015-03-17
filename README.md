@@ -19,7 +19,7 @@ Use in HTML document
 ``` html
 ...
 <script src="bower_components/polymer/polymer.min.js"></script>
-<link rel="import" href="css-letters.html">
+<link rel="import" href="bower_components/css-letters/css-letters.html">
 ...
 
 <x-a></x-a> <!-- A -->
