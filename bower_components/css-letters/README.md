@@ -11,7 +11,7 @@ Experiment to use/display the [CSS SANS](http://yusugomori.com/projects/css-sans
 Use bower to install
 
 ```shell
-bower install css-letters
+bower install https://github.com/jabranr/css-letters.git
 ```
 
 Use in HTML document
@@ -19,7 +19,7 @@ Use in HTML document
 ``` html
 ...
 <script src="bower_components/polymer/polymer.min.js"></script>
-<link rel="import" href="css-letters.html">
+<link rel="import" href="bower_components/css-letters/css-letters.html">
 ...
 
 <x-a></x-a> <!-- A -->
