@@ -11,7 +11,7 @@ Experiment to use/display the [CSS SANS](http://yusugomori.com/projects/css-sans
 Use bower to install
 
 ```shell
-bower install css-letters
+bower install https://github.com/jabranr/css-letters.git
 ```
 
 Use in HTML document
