@@ -25,7 +25,13 @@
     "css-sans": "*",
     "polymer": "~0.5.5"
   },
-  "devDependencies": {
-    "css-letters": "https://github.com/jabranr/css-letters.git#~0.0.1"
-  }
+  "_release": "0.0.1",
+  "_resolution": {
+    "type": "version",
+    "tag": "0.0.1",
+    "commit": "9f110e842e392a2eea9962c88811b7876550ecf7"
+  },
+  "_source": "https://github.com/jabranr/css-letters.git",
+  "_target": "~0.0.1",
+  "_originalSource": "https://github.com/jabranr/css-letters.git"
 }

@@ -1,0 +1,31 @@
+{
+  "name": "css-sans",
+  "homepage": "https://github.com/yusugomori/csssans",
+  "authors": [
+    "yusugomori"
+  ],
+  "description": "CSS SANS is the font created by CSS, the programming language for web designing and typesetting.",
+  "keywords": [
+    "CSS",
+    "Typography",
+    "Font",
+    "Sans"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "_release": "c77df4a17a",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "c77df4a17a46f259484394aae42342dd9c090c87"
+  },
+  "_source": "git://github.com/yusugomori/csssans.git",
+  "_target": "*",
+  "_originalSource": "css-sans"
+}

@@ -24,8 +24,5 @@
   "dependencies": {
     "css-sans": "*",
     "polymer": "~0.5.5"
-  },
-  "devDependencies": {
-    "css-letters": "https://github.com/jabranr/css-letters.git#~0.0.1"
   }
 }
