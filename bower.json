@@ -1,0 +1,28 @@
+{
+  "name": "css-letters",
+  "version": "0.0.1",
+  "authors": [
+    "Jabran Rafique <hello@jabran.me>"
+  ],
+  "description": "CSS Letters as Custom Elements using CSS SANS",
+  "main": "css-letters.html",
+  "keywords": [
+    "CSS",
+    "Letters",
+    "Typography",
+    "Font"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/jabranr/css-letters",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "css-sans": "*",
+    "polymer": "~0.5.5"
+  }
+}
