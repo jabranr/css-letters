@@ -1,6 +1,6 @@
 {
   "name": "css-letters",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "authors": [
     "Jabran Rafique <hello@jabran.me>"
   ],
@@ -25,11 +25,11 @@
     "css-sans": "*",
     "polymer": "~0.5.5"
   },
-  "_release": "0.0.2",
+  "_release": "0.0.3",
   "_resolution": {
     "type": "version",
-    "tag": "0.0.2",
-    "commit": "666b17b5d7e8030d32c836e101fa2d38a77c2e80"
+    "tag": "0.0.3",
+    "commit": "8b51d39d6679e5169c994f376d527acb485d48d9"
   },
   "_source": "https://github.com/jabranr/css-letters.git",
   "_target": "*",
