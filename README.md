@@ -27,3 +27,5 @@ Use in HTML document
 ```
 
 &copy; MIT License &ndash; [Jabran Rafique](http://jabran.me)
+
+[![Analytics](https://ga-beacon.appspot.com/UA-50688851-1/css-letters)](https://github.com/igrigorik/ga-beacon)
