@@ -26,6 +26,8 @@ Use in HTML document
 <x-b></x-b> <!-- B -->
 ```
 
-&copy; MIT License &ndash; [Jabran Rafique](http://jabran.me)
+# License
+
+MIT License – &copy; [Jabran Rafique](http://jabran.me) 2015
 
 [![Analytics](https://ga-beacon.appspot.com/UA-50688851-1/css-letters)](https://github.com/igrigorik/ga-beacon)
